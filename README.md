@@ -1,4 +1,6 @@
 # vue-demo
+vue第一个练手小项目
+
 
 ## Project setup
 ```
